@@ -849,7 +849,7 @@ li {
 /* section7------------------------------------------------------------------------------- */
 /* section8------------------------------------------------------------------------------ */
 .reviews-area {
-    background-image: url(review-bg.png);
+    background-image: url(img/review-bg.png);
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
